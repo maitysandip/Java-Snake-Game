@@ -1,1 +1,1 @@
-# Java-Snake-Game
+Simple Snake Game created with Java
